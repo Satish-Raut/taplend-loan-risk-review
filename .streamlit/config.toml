@@ -1,0 +1,19 @@
+[theme]
+base = "light"
+primaryColor = "#197a5b"
+backgroundColor = "#f5f6f2"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#202a2b"
+font = "DM Sans:https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap"
+headingFont = "Manrope:https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700;800&display=swap"
+borderColor = "#dfe4de"
+baseRadius = "8px"
+buttonRadius = "8px"
+showWidgetBorder = true
+
+[theme.sidebar]
+backgroundColor = "#e9eee8"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#202a2b"
+primaryColor = "#197a5b"
+borderColor = "#dfe4de"
